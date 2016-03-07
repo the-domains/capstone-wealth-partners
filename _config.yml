@@ -1,7 +1,7 @@
 name: Capstone Wealth Partners
 favicon: null
-layout_spectrum: 0.33529266249388456
-typography_spectrum: 0.7453080934938043
+layout_spectrum: 0.62098
+typography_spectrum: 0.56772
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9657368848565966
-  lightness: 0.9694330124184489
-  saturation: 0.5062568674329668
-  rhythmicContrast: 0.08807753026485443
+    - '#ffffff'
+    - '#dc7a2c'
+    - '#1384a7'
+    - '#a3a526'
+    - '#717173'
+  brandStrength: 0.625
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
